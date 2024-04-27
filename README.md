@@ -34,6 +34,6 @@ Finalement, le meilleur modèle est un compromis entre la simplicité à l'aide 
 
 ### Améliorations
 
-On observe une grande disparité de ventes entre les magasins, il serait intéressant d'obtenir des informations de meilleure qualité et plus détaillées, il serait judicieux d'explorer davantage de facteurs influençant les ventes. Par exemple, une analyse de la localisation des magasins ou d'autres caractéristiques spécifiques pourrait être extrêmement bénéfique pour expliquer la disparité importante des ventes entre les magasins.
+On observe une grande disparité de ventes entre les magasins, il serait intéressant d'obtenir des informations de meilleure qualité et plus détaillées, afin d'explorer davantage de facteurs influençant les ventes. Par exemple, une analyse de la localisation des magasins ou d'autres caractéristiques spécifiques pourrait être extrêmement bénéfique pour expliquer la disparité importante des ventes entre les magasins.
 
 En développant cette idée, une `approche géospatiale` pourrait être utilisée pour examiner les performances de vente en fonction de la localisation des magasins, en tenant compte de facteurs tels que la `densité de population`, le `revenu moyen` dans la région, la `concurrence locale`, et d'autres variables géographiques pertinentes. Cette analyse plus approfondie pourrait fournir des informations précieuses sur les facteurs locaux qui influent sur les ventes et aider à identifier les `opportunités d'amélioration` et de `croissance pour chaque magasin`.
